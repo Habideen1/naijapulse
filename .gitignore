@@ -1,0 +1,22 @@
+   # Secrets and local config
+   .env
+   .env.*
+
+   # Python
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/
+
+   # Django local database
+   db.sqlite3
+
+   # Node
+   node_modules/
+
+   # Jupyter
+   .ipynb_checkpoints/
+
+   # OS / editor noise
+   .DS_Store
+   Thumbs.db
